@@ -1,0 +1,20 @@
+Date & Time: Sun Feb  8 09:46:49 PM IST 2026
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/vdc         10G  4.2G  5.6G  43% /
+none            492K  4.0K  488K   1% /dev
+/dev/vdc         10G  4.2G  5.6G  43% /dev/kvm
+tmpfs           100K     0  100K   0% /dev/lxd
+run             3.2G   24K  3.2G   1% /dev/.cros_milestone
+9p              3.8G  1.6M  3.8G   1% /mnt/chromeos
+tmpfs           3.2G     0  3.2G   0% /mnt/external
+/dev/vdb         75M   73M     0 100% /opt/google/cros-containers
+fonts           3.4G  3.0G  338M  91% /usr/share/fonts/chromeos
+tmpfs           100K     0  100K   0% /dev/.lxd-mounts
+devtmpfs        3.2G     0  3.2G   0% /dev/tty
+tmpfs           3.2G   80M  3.1G   3% /dev/shm
+tmpfs           1.3G  116K  1.3G   1% /run
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           4.0M     0  4.0M   0% /sys/fs/cgroup
+tmpfs           647M   28K  647M   1% /run/user/1000
+Logged-in User: vaibhav
